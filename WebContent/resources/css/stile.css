@@ -1,0 +1,31 @@
+.tabela {
+	border: 1px solid blue;
+}
+
+.cabecalho {
+	text-align: center;
+	font: 13px Arial, sans-serif;
+	font-weight: bold;
+	color: Snow;
+	background: #191970;
+}
+
+.colunaPadrao {
+	text-align: center;
+	font: 13px Arial, sans-serif;
+	background: #ADD8E6;
+	padding: 3px;
+}
+
+.smallInput {
+	width: 85px;
+}
+
+.bigInput {
+	width: 180px;
+}
+
+.formLable{
+	font: 13px Arial, sans-serif;	
+}
+
